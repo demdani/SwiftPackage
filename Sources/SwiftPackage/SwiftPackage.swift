@@ -1,7 +1,7 @@
 
-class SwiftPackage {
+public class SwiftPackage {
 	
-	static var description: String {
+	public static var description: String {
 		return "My first package"
 	}
 }
